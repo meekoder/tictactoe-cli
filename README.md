@@ -19,11 +19,11 @@ Two-player command line tic tac toe game
 ## Requirements
 
 - Node
--
+
 - ### Installing Dependencies
--
-- From within the root directory:
--
-- ```sh
-- npm install
-- `````````
+
+    From within the root directory:
+
+    ```
+    npm install
+    ```
