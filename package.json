@@ -1,0 +1,22 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "Command line tic tac toe",
+  "main": "tictactoe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meekoder/tictactoe-cli.git"
+  },
+  "author": "Meeko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meekoder/tictactoe-cli/issues"
+  },
+  "homepage": "https://github.com/meekoder/tictactoe-cli#readme",
+  "dependencies": {
+    "prompt": "^1.1.0"
+  }
+}
